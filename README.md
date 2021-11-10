@@ -26,7 +26,7 @@ Task<IPagedList<T>> ToPagedListAsync<T>(this IEnumerable<T> items, int pageNumbe
 Task<IPagedList<T>> ToPagedListAsync<T>(this T[] items, int pageNumber, int pageSize)
 ```
 
-### Page Result
+### PagedList
 
 The details of each page include the following:
 
