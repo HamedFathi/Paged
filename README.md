@@ -2,6 +2,10 @@
 
 ### [Nuget](https://www.nuget.org/packages/Paged/)
 
+[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://opensource.org/licenses/MIT)
+![Nuget](https://img.shields.io/nuget/v/Paged)
+![Nuget](https://img.shields.io/nuget/dt/Paged)
+
 ```
 Install-Package Paged
 
